@@ -1,0 +1,17 @@
+---
+title: "Week07_NormDist"
+format: html
+editor: source
+---
+
+Testing the page...
+
+```{r}
+library(openintro)
+table(stent30$group, stent30$outcome) |> addmargins()
+```
+
+```{r}
+table(stent30$group, stent30$outcome) |>  prop.table(margin=1) |>round(digits=2)
+```
+

@@ -1,0 +1,17 @@
+---
+title: "Welcome!"
+---
+
+### PRIOR EXAMPLE
+
+Gallery of options: [Gallery](https://quarto.org/docs/gallery/#websites)
+
+Quarto guide to website videos: <https://quarto.org/docs/websites/#quick-start>
+
+Example website: <https://crsl4.github.io/julia-workshop/>
+
+Very useful for a chapter-based set of course notes!
+
+Themes: <https://quarto.org/docs/output-formats/html-themes.html>
+
+

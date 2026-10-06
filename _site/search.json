@@ -1,0 +1,36 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Nick Lytal, Associate Professor\nDepartment of Mathematics & Statistics\nCalifornia State University, Chico",
+    "crumbs": [
+      "Home",
+      "About"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome!",
+    "section": "",
+    "text": "PRIOR EXAMPLE\nGallery of options: Gallery\nQuarto guide to website videos: https://quarto.org/docs/websites/#quick-start\nExample website: https://crsl4.github.io/julia-workshop/\nVery useful for a chapter-based set of course notes!\nThemes: https://quarto.org/docs/output-formats/html-themes.html",
+    "crumbs": [
+      "Home",
+      "Welcome!"
+    ]
+  },
+  {
+    "objectID": "Week07_NormDist.html",
+    "href": "Week07_NormDist.html",
+    "title": "Week07_NormDist",
+    "section": "",
+    "text": "Testing the page…\n\nlibrary(openintro)\n\nLoading required package: airports\n\n\nLoading required package: cherryblossom\n\n\nLoading required package: usdata\n\ntable(stent30$group, stent30$outcome) |&gt; addmargins()\n\n           \n            no event stroke Sum\n  control        214     13 227\n  treatment      191     33 224\n  Sum            405     46 451\n\n\n\ntable(stent30$group, stent30$outcome) |&gt;  prop.table(margin=1) |&gt;round(digits=2)\n\n           \n            no event stroke\n  control       0.94   0.06\n  treatment     0.85   0.15",
+    "crumbs": [
+      "Home",
+      "Class Notes",
+      "Week07_NormDist"
+    ]
+  }
+]
