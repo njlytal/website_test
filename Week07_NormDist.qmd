@@ -4,14 +4,17 @@ format: html
 editor: source
 ---
 
-Testing the page...
+Sample Tables
 
-```{r}
+```{r, echo=F}
 library(openintro)
+```
+
+```{r counts table}
 table(stent30$group, stent30$outcome) |> addmargins()
 ```
 
-```{r}
+```{r row prop table}
 table(stent30$group, stent30$outcome) |>  prop.table(margin=1) |>round(digits=2)
 ```
 

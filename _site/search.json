@@ -15,7 +15,7 @@
     "href": "index.html",
     "title": "Welcome!",
     "section": "",
-    "text": "PRIOR EXAMPLE\nGallery of options: Gallery\nQuarto guide to website videos: https://quarto.org/docs/websites/#quick-start\nExample website: https://crsl4.github.io/julia-workshop/\nVery useful for a chapter-based set of course notes!\nThemes: https://quarto.org/docs/output-formats/html-themes.html",
+    "text": "PRIOR EXAMPLE\nGallery of options: Gallery\nQuarto guide to website videos: https://quarto.org/docs/websites/#quick-start\nExample website: https://crsl4.github.io/julia-workshop/\nVery useful for a chapter-based set of course notes!\nThemes: https://quarto.org/docs/output-formats/html-themes.html\nQuarto notes on publishing: https://quarto.org/docs/publishing/\nQuarto notes on GitHub pages: https://quarto.org/docs/publishing/github-pages.html",
     "crumbs": [
       "Home",
       "Welcome!"

@@ -23,7 +23,7 @@ website:
 format:
   html:
     theme:
-      - lux
+      - zephyr
       - brand
     css: styles.css
     toc: true

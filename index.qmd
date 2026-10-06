@@ -14,4 +14,7 @@ Very useful for a chapter-based set of course notes!
 
 Themes: <https://quarto.org/docs/output-formats/html-themes.html>
 
+Quarto notes on publishing: <https://quarto.org/docs/publishing/>
+
+Quarto notes on GitHub pages: <https://quarto.org/docs/publishing/github-pages.html>
 
