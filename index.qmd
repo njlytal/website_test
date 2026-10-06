@@ -4,6 +4,8 @@ title: "Welcome!"
 
 ### PRIOR EXAMPLE
 
+MATH 385 Notes: <https://data385.netlify.app/ae/ae06-quarto-website_i>
+
 Gallery of options: [Gallery](https://quarto.org/docs/gallery/#websites)
 
 Quarto guide to website videos: <https://quarto.org/docs/websites/#quick-start>
